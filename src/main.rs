@@ -1,6 +1,6 @@
 use std::{thread::sleep, time::Duration};
 
-use progress_bar::ProgressBar;
+use probar::ProgressBar;
 
 fn main() {
     let p = ProgressBar::new(500);
