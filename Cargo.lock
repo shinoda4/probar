@@ -166,19 +166,19 @@ dependencies = [
 ]
 
 [[package]]
+name = "pro_bar"
+version = "0.1.0"
+dependencies = [
+ "crossterm",
+]
+
+[[package]]
 name = "proc-macro2"
 version = "1.0.101"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "89ae43fd86e4158d6db51ad8e2b80f313af9cc74f5c0e03ccb87de09998732de"
 dependencies = [
  "unicode-ident",
-]
-
-[[package]]
-name = "progress_bar"
-version = "0.1.0"
-dependencies = [
- "crossterm",
 ]
 
 [[package]]

@@ -1,5 +1,5 @@
 [package]
-name = "progress_bar"
+name = "pro_bar"
 version = "0.1.0"
 edition = "2024"
 
